@@ -29,6 +29,9 @@
 
 </script>
 <style scoped>
+.container{
+    padding:2rem 1rem;
+}
 .title{
     text-align:center;
     color:#28A745;
