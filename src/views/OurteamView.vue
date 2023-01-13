@@ -1,0 +1,4 @@
+<template>
+    <h1>This is our Team</h1>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui sapiente, iure quibusdam at incidunt commodi suscipit architecto aliquam enim nisi nam veritatis a voluptatibus repellat pariatur excepturi consequatur quasi. Aut suscipit, assumenda numquam sint ab fugiat optio quia! Officia nihil ad dolorum reiciendis ipsum dolores impedit iusto nesciunt aliquam magni, tempora doloribus quo aliquid minus maxime, quae maiores mollitia. Quisquam ullam corporis nemo culpa velit possimus unde itaque pariatur porro. Eius aperiam, similique consequatur expedita autem quam dicta sunt libero! Reprehenderit libero quia repellendus natus, facere eveniet maiores ad quam quae sunt, earum in quisquam tempore doloremque, perferendis molestias numquam!</p>
+</template>

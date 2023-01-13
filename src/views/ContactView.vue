@@ -1,0 +1,4 @@
+<template>
+    <h1>This is Contact</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat deleniti fugit, quos exercitationem blanditiis repudiandae pariatur, praesentium ab maxime, facilis provident totam veniam et dignissimos! Ea cumque et natus maxime accusantium maiores corrupti quisquam voluptatibus error impedit. Ut debitis perferendis architecto sint sed nisi temporibus neque eos voluptate perspiciatis sit omnis ea labore officia, vel molestias suscipit, harum voluptatibus exercitationem nobis illo consequuntur maxime cupiditate? Doloremque maiores pariatur, blanditiis voluptatem obcaecati numquam dicta. Iure vero eum totam vitae rem distinctio consequatur quo libero alias quod corporis aut neque qui aliquam, vel tenetur voluptates ex fugit? Debitis natus provident est dolorem?</p>
+</template>

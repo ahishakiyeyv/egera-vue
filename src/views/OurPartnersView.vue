@@ -1,0 +1,4 @@
+<template>
+    <h1>This is our partners</h1>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestias magni odit eaque eligendi minima quisquam facere sunt labore, vitae ipsa quibusdam voluptatibus iusto. Quaerat nisi, libero sint fuga dolorem cupiditate mollitia temporibus laboriosam dignissimos. Delectus excepturi aspernatur corrupti nihil, placeat adipisci sequi quaerat earum praesentium repudiandae odio culpa, neque expedita possimus est minima aliquam laudantium omnis fugiat ducimus quod eaque incidunt? Debitis sapiente molestias animi expedita velit sunt quae necessitatibus, rem sit repudiandae, corrupti eveniet sequi fuga et ut. Suscipit accusamus modi eum. Natus facilis, consequatur magnam eius ullam dolorum amet tempore, praesentium iure fuga dolore nihil et soluta. Similique?</p>
+</template>
