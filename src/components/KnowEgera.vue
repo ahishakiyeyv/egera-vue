@@ -45,7 +45,7 @@ section{
     align-items: center;
     align-content: flex-start;
     width: 100%;
-    height: 80vh;
+    height: 60vh;
     overflow: auto;
     flex-direction: row;
     
