@@ -7,11 +7,12 @@
   <router-view/>
 </template>
 <script>
-import Menu from '@/components/Menu.vue'
+ import Menu from '@/components/Menu.vue'
+
 export default {
-name: 'HomeView',
+name: 'ServicesView',
   components: {
-    Menu
+Menu
   }
 }
 

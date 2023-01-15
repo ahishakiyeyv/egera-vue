@@ -20,10 +20,12 @@
 <style scoped>
 .container{
     width:100%;
+    position:fixed;
     display:flex;
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
+    background:#fff;
    /* // border-bottom:1px solid rgba(0,0,0,0.5); */
     box-shadow: 0px 2px rgba(0,0,0,0.5);
 }
