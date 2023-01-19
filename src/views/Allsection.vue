@@ -7,6 +7,7 @@
    <Services/>
    <Team/>
    <Portfolio/>
+   <Partners/>
   </div>
 </template>
 
@@ -18,6 +19,7 @@ import KnowEgera from '@/components/KnowEgera.vue'
 import Services from '@/components/Services.vue'
 import Team from '@/components/Team.vue'
 import Portfolio from '@/components/Portfolio.vue'
+import Partners from '@/components/Partners.vue'
 
 export default {
 name: 'Allsection',
@@ -27,7 +29,8 @@ name: 'Allsection',
     KnowEgera,
     Services,
     Team,
-    Portfolio
+    Portfolio,
+    Partners
   }
 }
 </script>
