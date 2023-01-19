@@ -1,6 +1,7 @@
 <template>
 
 <div class="services">
+  <Menu/>
    <Home/>
    <KnowEgera/>
    <Services/>
@@ -11,6 +12,7 @@
 
 <script>
 
+import Menu from '@/components/Menu.vue'
 import Home from '@/components/Home.vue'
 import KnowEgera from '@/components/KnowEgera.vue'
 import Services from '@/components/Services.vue'
@@ -20,6 +22,7 @@ import Portfolio from '@/components/Portfolio.vue'
 export default {
 name: 'Allsection',
   components: {
+    Menu,
     Home,
     KnowEgera,
     Services,

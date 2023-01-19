@@ -1,5 +1,4 @@
 <template>
-<Menu/>
   <!-- <nav>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
@@ -7,12 +6,12 @@
   <router-view/>
 </template>
 <script>
- import Menu from '@/components/Menu.vue'
+//  import Menu from '@/components/Menu.vue'
 
 export default {
 name: 'ServicesView',
   components: {
-Menu
+
   }
 }
 
