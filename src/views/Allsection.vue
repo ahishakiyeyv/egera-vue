@@ -8,6 +8,7 @@
    <Team/>
    <Portfolio/>
    <Partners/>
+   <Contact/>
   </div>
 </template>
 
@@ -20,6 +21,7 @@ import Services from '@/components/Services.vue'
 import Team from '@/components/Team.vue'
 import Portfolio from '@/components/Portfolio.vue'
 import Partners from '@/components/Partners.vue'
+import Contact from '@/components/Contact.vue'
 
 export default {
 name: 'Allsection',
@@ -30,7 +32,8 @@ name: 'Allsection',
     Services,
     Team,
     Portfolio,
-    Partners
+    Partners,
+    Contact
   }
 }
 </script>
