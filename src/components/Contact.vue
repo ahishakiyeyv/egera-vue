@@ -1,5 +1,6 @@
 <template>
     <section>
+        <!-- <Myttle>Contact</Myttle> -->
         <div class="title">
             <h1 class="title1">Contact</h1>
         </div>
@@ -23,19 +24,42 @@
                     <h3 class="subpara">Avenue des Etats Unis, № 76, Kigobe Sud</h3>
                     </div>
             </div>
-            <div class="sub-container2"></div>
+            <div class="sub-container2">
+                <form method="post">
+                    <div class="div-input">
+                        <div class="input1">
+                            <input type="text" name="name" placeholder="Your Name...">
+                        </div>
+                        <div class="input2">
+                            <input type="text" name="mail..." placeholder="Your email">
+                        </div>
+                    </div>
+                    <textarea class="txtarea"  cols="50" rows="6" placeholder="Your Message..."></textarea><br>
+                    <button>Submit</button>
+                </form>
+
+            </div>
         </div>
     </section>
 </template>
 <script>
+// import OurTitle from '@/components/OurTitle.vue'
+// import Myttle from '@/components/Myttle.vue'
+// export default {
+//    name:'Contact',
+//    component: {
+//     Myttle
+//    }
 
+// }
 </script>
+
 <style scoped>
 .title1{
     text-align: center;
     font-size:2rem;
     color:#28A745;
-}
+} 
 .container{
     display:flex;
     justify-content: center;
@@ -58,5 +82,34 @@
 .subpara a{
     text-decoration: none;
     color:#000;
+}
+/*=================================*/
+
+.div-input{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.input1 input{
+    width:10rem;
+    height:2rem;
+    margin:.5rem;
+}
+.input2 input{
+     width:10rem;
+    height:2rem;
+}
+.txtarea{
+    margin:.5rem;
+    border-radius:5px;
+}
+button{
+    background:#28A745;
+    color:#fff;
+    font-size:1rem;
+    font-weight:600;
+    border-radius:5px;
+    padding:.3rem 1.8rem;
 }
 </style>
